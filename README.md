@@ -453,7 +453,7 @@ Four convolutional blocks progressively double channel depth while halving spati
 
 ## Model 2: ResNet18 with Transfer Learning
 
-A significantly stronger model that reuses low-level feature representations learned on ImageNet.
+A significantly stronger model that reuses low-level feature representations learned on ImageNet. Model states are saved here https://drive.google.com/drive/folders/1lSveNPOij0RziTEEHhg01OV_k0ktIyGF?usp=share_link
 
 ### Motivation for Transfer Learning
 
